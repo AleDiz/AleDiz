@@ -49,8 +49,8 @@ Whether I am working in **Godot**, **Custom Engines** or **Unity**, my goal is a
 ---
 
 ### 📫 Let's Connect!
-I am actively seeking **Junior Game Designer** or **Technical Designer** roles where I can bring my technical background and creative problem-solving skills to a specialized team.
-
+I am actively seeking **Junior Game Designer** or **Technical Designer** roles. If you are looking for a designer who can bridge the gap between engine architecture and player experience, I'd love to chat!
 - 🎮 **Play my games:** [alediz.itch.io](https://alediz.itch.io/)
+- 📺 **YouTube:** [AleDev](https://www.youtube.com/@aledevgames) - *Check out my devlogs and game design process! (Only in Spanish!)*
 - 💼 **LinkedIn:** [www.linkedin.com/in/alejandro-diaz-alcaraz-037099242](www.linkedin.com/in/alejandro-diaz-alcaraz-037099242)
 - ✉️ **Email:** [diazalcaraz@gmail.com]
