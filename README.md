@@ -25,23 +25,23 @@ Whether I am working in **Godot**, **Custom Engines** or **Unity**, my goal is a
 
 ### 🕹️ Featured Projects
 
-* 🏎️ **[Atomic Racers]([link-to-repo](https://github.com/AleDiz/AtomicRacersAleDev))** - *Technical Game Designer & Team Lead* (Custom C++ Engine)
+* 🏎️ **[Atomic Racers](https://github.com/AleDiz/AtomicRacersAleDev)** - *Technical Game Designer & Team Lead* (Custom C++ Engine)
   * Directed the holistic design and art vision for a 5-person team over 9 months implementing **Agile methodologies**. 
   * Designed and programmed a **Utility AI system** from scratch to create dynamic, competitive encounters. 
   * Designed the **complete UX/UI flow** and built the underlying technical architecture to support the core gameplay.
   * 💡 *[Play the final version here on Itch.io](https://empiric-team.itch.io/atomic-racers)*
 
-* 🗼 **[K’Ho Chillam]([link-to-repo](https://github.com/AleDiz/KhoChillamAleDev))** - *Lead Systems Designer* (Godot 4 / C#)
+* 🗼 **[K’Ho Chillam](https://github.com/AleDiz/KhoChillamAleDev)** - *Lead Systems Designer* (Godot 4 / C#)
   * Mentored a 7-person team and established an **Agile workflow** during Global Game Jam '26. 
   * Took full ownership of the **Combat and Systems Design**, balancing diverse shot types with **synergistic status effects** to provide players with deep strategic choices and a highly engaging core loop.
   * 💡 *[Play the final version here on Itch.io](https://f4loi.itch.io/kohchilam)*
 
-* 🧩 **[Pop Push]([link-to-repo](https://github.com/AleDiz/PopPushAleDev))** - *Solo Game Designer / Developer* (Game Boy / Z80 Assembly)
+* 🧩 **[Pop Push](https://github.com/AleDiz/PopPushAleDev)** - *Game Designer & Developer* (Game Boy / Z80 Assembly)
   * A masterclass in **Constraint-Driven Design**, building a complete arcade experience within the extreme limitations of retro hardware. 
   * Designed the **core gameplay loop** and player progression, implementing a persistent high-score system to maximize **player retention and replayability**.
   * 💡 *[Play the final version here on Itch.io](https://javierrhp.itch.io/pop-push)*
 
-* ⚔️ **[Soldier Assemble]([link-to-repo](https://github.com/AleDiz/SoldierAssembleAleDev))** - *AI & Encounter Designer* (Game Boy / Z80 Assembly)
+* ⚔️ **[Soldier Assemble](https://github.com/AleDiz/SoldierAssembleAleDev)** - *AI & Encounter Designer* (Game Boy / Z80 Assembly)
   * Focused heavily on **Encounter Design** and readable mechanics, building a custom ECS engine tailored to my gameplay concepts. 
   * Designed the ruleset for a **dynamic AI system**, balancing real-time pathfinding to ensure enemy encounters provided a challenging yet perfectly readable threat.
   * 💡 *[Play the final version here on Itch.io](https://sanchete-studios.itch.io/soldiers-assemble)*
