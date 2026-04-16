@@ -42,8 +42,8 @@ Whether I am working in **Godot**, **Custom Engines** or **Unity**, my goal is a
   * 💡 *[Play the final version here on Itch.io](https://javierrhp.itch.io/pop-push)*
 
 * 🔫 **[Soldier Assemble](https://github.com/AleDiz/SoldierAssembleAleDev)** - *AI & Encounter Designer* (Game Boy / Z80 Assembly)
-  * Focused heavily on **Encounter Design** and readable mechanics, building a custom ECS engine tailored to my gameplay concepts. 
-  * Designed the ruleset for a **dynamic AI system**, balancing real-time pathfinding to ensure enemy encounters provided a challenging yet perfectly readable threat.
+  * Designed and implemented a **custom ECS engine in pure Z80 assembly**, tailored to support scalable gameplay systems under strict hardware constraints.
+  * Developed a **lightweight heuristic-based AI system with real-time pathfinding**, enabling enemies to navigate complex environments and dynamically pressure the player while maintaining **extremely low computational cost**.
   * 💡 *[Play the final version here on Itch.io](https://sanchete-studios.itch.io/soldiers-assemble)*
 
 ---
