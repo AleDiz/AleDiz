@@ -1,16 +1,16 @@
 # Hi! I'm Ale 👋
 ### Technical Game Designer | Systems & Gamefeel Specialist 🎮
 
-I am a technical Game Designer with a passion for **Core Mechanics, Systems Design, and Gamefeel**. Coming from a highly technical background (including custom C++ engines and Assembly), I leverage my programming skills to **empower design**: I don't just write design documents; I rapidly prototype, iterate, and fine-tune the mechanics myself.
-
+Technical Game Designer specialized in **core systems, gamefeel, and AI-driven gameplay**, with a strong low-level programming background (C++, custom engines, and Z80 assembly).
+I design and implement my own mechanics end-to-end — from **core loop definition to final tuning** — enabling fast iteration and highly polished player experiences.
 Whether I am working in **Godot**, **Custom Engines** or **Unity**, my goal is always to create highly engaging core loops and seamless player experiences.
 
 ---
 
 ### 🛠️ My Design Philosophy
-- **Constraint-Driven Design:** I thrive under technical and design limitations, using them to craft focused and highly polished core loops.
-- **Data-Driven & Iteration:** I heavily rely on exposed variables and spreadsheets (Excel) to balance game economies, difficulty curves, and gamefeel without bottlenecks.
-- **Agile Leadership:** I believe in iterative development. I use Agile methodologies (Scrum/Kanban) to align teams and keep the focus on rapid prototyping and the final player experience.
+- **Constraint-Driven Design:** I use technical and design limitations to build focused, polished core loops.
+- **Data-Driven Iteration:** I rely on exposed variables and spreadsheets to balance difficulty, economies, and gamefeel efficiently.
+- **Agile Development:** Experienced working in fast iteration cycles (Scrum/Kanban), keeping teams aligned around playable results.
 
 ---
 
@@ -19,19 +19,19 @@ Whether I am working in **Godot**, **Custom Engines** or **Unity**, my goal is a
 * 🧠 **Game Design & Systems:** Systems Design, Core Gameplay Loop, Level Design, Game Economy & Balancing, Rapid Prototyping, Gamefeel, Utility AI Design.
 * 💻 **Game Engines & Programming:** Godot (C#), Custom C++ Engines, Z80 Assembly, Unity, Unreal Engine.
 * 📊 **Production & Agile Workflow:** Agile Methodologies (Scrum / Kanban), Team Leadership, Data-Driven Balancing (Excel), Version Control (Git), Trello.
-* 🎨 **Art & Multimedia:** Blender, Aseprite, Photoshop, DaVinci Resolve, Asset Optimization.
+* 🎨 **Art & Multimedia:** Blender, Aseprite, Photoshop, DaVinci Resolve, BlockBench, Asset Optimization, Content Creation.
 
 ---
 
 ### 🕹️ Featured Projects
 
 * 🏎️ **[Atomic Racers](https://github.com/AleDiz/AtomicRacersAleDev)** - *Technical Game Designer & Team Lead* (Custom C++ Engine)
-  * Directed the holistic design and art vision for a 5-person team over 9 months implementing **Agile methodologies**. 
-  * Designed and programmed a **Utility AI system** from scratch to create dynamic, competitive encounters. 
-  * Designed the **complete UX/UI flow** and built the underlying technical architecture to support the core gameplay.
+  * Led a 5-person team over 9 months, defining the **core gameplay systems and technical direction**.
+  * Designed and implemented a **Utility AI system** to create dynamic racing behaviors and overtaking strategies.
+  * Developed key gameplay systems directly in C++, bridging **engine-level programming with design goals**.
   * 💡 *[Play the final version here on Itch.io](https://empiric-team.itch.io/atomic-racers)*
 
-* 🗼 **[K’Ho Chillam](https://github.com/AleDiz/KhoChillamAleDev)** - *Lead Systems Designer* (Godot 4 / C#)
+* 🗼 **[K’Ho Chillam](https://github.com/AleDiz/KhoChillamAleDev)** - *Lead Systems Designer  & Gameplay Programmer* (Godot 4 / C#)
   * Mentored a 7-person team and established an **Agile workflow** during Global Game Jam '26. 
   * Took full ownership of the **Combat and Systems Design**, balancing diverse shot types with **synergistic status effects** to provide players with deep strategic choices and a highly engaging core loop.
   * 💡 *[Play the final version here on Itch.io](https://f4loi.itch.io/kohchilam)*
@@ -42,8 +42,8 @@ Whether I am working in **Godot**, **Custom Engines** or **Unity**, my goal is a
   * 💡 *[Play the final version here on Itch.io](https://javierrhp.itch.io/pop-push)*
 
 * 🔫 **[Soldier Assemble](https://github.com/AleDiz/SoldierAssembleAleDev)** - *AI & Encounter Designer* (Game Boy / Z80 Assembly)
-  * Designed and implemented a **custom ECS engine in pure Z80 assembly**, tailored to support scalable gameplay systems under strict hardware constraints.
-  * Developed a **lightweight heuristic-based AI system with real-time pathfinding**, enabling enemies to navigate complex environments and dynamically pressure the player while maintaining **extremely low computational cost**.
+  * Built a **custom ECS engine in pure Z80 assembly** for scalable gameplay systems.
+  * Designed a **heuristic-based AI with real-time pathfinding**, enabling responsive and readable enemy encounters under strict hardware constraints.
   * 💡 *[Play the final version here on Itch.io](https://sanchete-studios.itch.io/soldiers-assemble)*
 
 ---
