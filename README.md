@@ -1,58 +1,57 @@
 # Hi! I'm Ale 👋
-### Gameplay Programmer & Technical Designer | C++ & Systems Specialist 🎮
+### Gameplay & C++ Programmer | Engine & Systems Developer 💻
 
-I am a recent Multimedia Engineering graduate specialized in **gameplay programming, core systems, and AI-driven mechanics**. With a strong low-level engineering background (C++, custom engines, and Z80 assembly), I bridge the gap between engine architecture and high-level gamefeel.
+I am a recent Multimedia Engineering graduate specialized in **C++ programming, low-level engine development, and systems architecture**. I am passionate about building robust, scalable codebases and squeezing maximum performance out of both modern engines and highly constrained retro hardware.
 
-I don't just design mechanics; I build the underlying systems that make them possible. From **architecting custom ECS frameworks** to **tuning the final player experience**, my goal is to create scalable codebases and highly engaging core loops—whether in **Godot**, **Unity**, or **Custom C++ Engines**.
+My focus is on **gameplay programming, AI algorithms, and custom engine architecture**. I build the underlying systems that empower design teams, transitioning seamlessly between high-level logic (C# / Godot) and memory-managed, low-level environments (C++ / Z80 Assembly).
 
----
-
-### 🛠️ Engineering & Design Philosophy
-- **Architecture-First Design:** I build robust, scalable systems that empower fast iteration and expose variables for data-driven tuning.
-- **Constraint-Driven Innovation:** I thrive under strict technical limitations (like retro hardware constraints) to forge highly focused, polished core loops.
-- **Agile & Collaborative:** Experienced in fast sprint cycles (Scrum/Kanban), acting as the technical translator between pure designers and engine programmers.
+🌐 *Looking for my Game Design portfolio? [Check out my personal website here] (Enlace a tu futura web)*
 
 ---
 
-### 🚀 Tech Stack & Design Arsenal
-
-* 💻 **Programming & Architecture:** C++, C#, Z80 Assembly, Entity-Component System (ECS), Object-Oriented Programming (OOP), Custom Engine Development.
-* 🧠 **Game & Systems Design:** Systems Architecture, Core Gameplay Loops, Utility AI & Pathfinding, Game Economy, Gamefeel & Polish.
-* ⚙️ **Game Engines:** Godot (C#), Custom C++ Engines, Unity, Unreal Engine.
-* 📊 **Production & Tools:** Git / GitHub, Agile Methodologies (Scrum / Kanban), Jira / Trello, Data-Driven Balancing (Excel).
-* 🎨 **Multimedia Integration:** Blender, Aseprite, Photoshop, Asset Optimization.
+### 🛠️ Engineering Philosophy
+- **Architecture & Scalability:** I prioritize clean, modular code using patterns like **Entity-Component System (ECS)** and OOP to ensure long-term maintainability.
+- **Performance-Critical Development:** Experienced in working under extreme hardware limitations, optimizing memory usage and CPU cycles.
+- **Tooling & Data-Driven Systems:** I build exposed, flexible systems that allow designers to iterate quickly without touching the codebase.
 
 ---
 
-### 🕹️ Featured Projects
+### 🚀 Tech Stack
 
-* 🏎️ **[Atomic Racers](https://github.com/AleDiz/AtomicRacersAleDev)** - *Technical Designer & Team Lead* (Custom C++ Engine)
-  * Led a 5-person team over 9 months, defining both the **core gameplay systems and technical direction**.
-  * Engineered a **Utility AI system** from scratch in C++ to drive dynamic racing behaviors and strategic overtaking.
-  * Developed key gameplay logic directly at the engine level, seamlessly bridging **low-level programming with game design goals**.
-  * 💡 *[Play the final version here on Itch.io](https://empiric-team.itch.io/atomic-racers)*
+* 💻 **Languages:** C++, C#, Z80 Assembly, C.
+* ⚙️ **Architecture & Patterns:** Entity-Component System (ECS), Object-Oriented Programming (OOP), Data-Driven Architecture, State Machines, Utility AI.
+* 🎮 **Engines & APIs:** Custom C++ Frameworks, Godot 4, Unity, Unreal Engine.
+* 🛠️ **Dev Tools & Workflows:** Git / GitHub, Visual Studio, Memory Profiling, Agile (Scrum/Kanban).
 
-* 🔫 **[Soldier Assemble](https://github.com/AleDiz/SoldierAssembleAleDev)** - *Gameplay Programmer & AI Designer* (Game Boy / Z80 Assembly)
-  * Architected a **custom Entity-Component System (ECS) engine in pure Z80 assembly** to handle scalable gameplay on extremely limited hardware.
-  * Designed and programmed a **heuristic-based AI with real-time pathfinding**, enabling responsive and readable enemy encounters.
-  * 💡 *[Play the final version here on Itch.io](https://sanchete-studios.itch.io/soldiers-assemble)*
+---
 
-* 🗼 **[K’Ho Chillam](https://github.com/AleDiz/KhoChillamAleDev)** - *Lead Systems Designer & Gameplay Programmer* (Godot 4 / C#)
-  * Mentored a 7-person team and established an **Agile workflow** during Global Game Jam '26. 
-  * Architected the **Combat System** in C#, balancing diverse shot types with **synergistic status effects** to provide deep strategic choices within the core loop.
-  * 💡 *[Play the final version here on Itch.io](https://f4loi.itch.io/kohchilam)*
+### 💻 Engineering Projects
 
-* 🌽 **[Pop Push](https://github.com/AleDiz/PopPushAleDev)** - *Developer & Designer* (Game Boy / Z80 Assembly)
-  * A masterclass in **Constraint-Driven Design**, building a complete arcade experience within the extreme memory limits of the Game Boy. 
-  * Implemented player progression and a persistent high-score system to maximize **player retention and replayability**.
-  * 💡 *[Play the final version here on Itch.io](https://javierrhp.itch.io/pop-push)*
+* 🔫 **[Soldier Assemble](https://github.com/AleDiz/SoldierAssembleAleDev)** - *Engine Programmer (Game Boy / Z80 Assembly)*
+  * Architected a **custom Entity-Component System (ECS) engine entirely in Z80 assembly**, enabling scalable gameplay logic on a system with extreme CPU and memory constraints.
+  * Engineered a **heuristic-based pathfinding algorithm** tailored for real-time execution on 8-bit hardware without dropping frames.
+  * Handled direct memory mapping and hardware-level rendering optimizations.
+
+* 🏎️ **[Atomic Racers](https://github.com/AleDiz/AtomicRacersAleDev)** - *C++ Gameplay Programmer & Team Lead (Custom C++ Engine)*
+  * Developed the core gameplay logic and physics interactions directly at the engine level using **C++**.
+  * Engineered a modular **Utility AI system** from scratch, evaluating multiple dynamic parameters (speed, distance, track layout) in real-time to drive NPC overtaking strategies.
+  * Managed the technical pipeline and repository for a team of 5 over a 9-month development cycle.
+
+* 🗼 **[K’Ho Chillam](https://github.com/AleDiz/KhoChillamAleDev)** - *Gameplay Programmer (Godot 4 / C#)*
+  * Architected a highly modular **Combat and Weapon System in C#**, utilizing custom resources and event-driven programming to decouple logic from the node tree.
+  * Implemented a scalable state machine for handling complex, overlapping status effects and synergistic combat interactions.
+  * Maintained a clean codebase and established technical standards for a 7-person team during a Game Jam environment.
+
+* 🌽 **[Pop Push](https://github.com/AleDiz/PopPushAleDev)** - *Low-Level Programmer (Game Boy / Z80 Assembly)*
+  * Developed a complete arcade game logic pipeline in pure assembly.
+  * Implemented efficient data packing and persistent memory handling (SRAM) for a robust high-score saving system.
 
 ---
 
 ### 📫 Let's Connect!
-I am actively seeking **Junior Gameplay Programmer** or **Technical Game Designer** roles. If your team needs someone who understands both the math behind a custom physics engine and the design psychology behind a satisfying jump, I'd love to chat!
+I am actively seeking **Junior Gameplay Programmer** or **C++ Developer** roles. If your team is looking for an engineer who loves diving into custom architectures and building scalable systems, let's talk!
 
 - 💼 **LinkedIn:** [Alejandro Díaz Alcaraz](https://www.linkedin.com/in/alejandro-diaz-alcaraz-037099242)
 - ✉️ **Email:** [diazalcaraz@gmail.com](mailto:diazalcaraz@gmail.com)
 - 🎮 **Itch.io:** [alediz.itch.io](https://alediz.itch.io/)
-- 📺 **YouTube:** [AleDev](https://www.youtube.com/@aledevgames) - *Game devlogs and tutorials (Spanish)*
+- 📺 **YouTube:** [AleDev](https://www.youtube.com/@aledevgames) - *Technical Devlogs & Tutorials*
