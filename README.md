@@ -5,8 +5,6 @@ I am a recent Multimedia Engineering graduate specialized in **C++ programming, 
 
 My focus is on **gameplay programming, AI algorithms, and custom engine architecture**. I build the underlying systems that empower design teams, transitioning seamlessly between high-level logic (C# / Godot) and memory-managed, low-level environments (C++ / Z80 Assembly).
 
-🌐 *Looking for my Game Design portfolio? [Check out my personal website here] (Enlace a tu futura web)*
-
 ---
 
 ### 🛠️ Engineering Philosophy
