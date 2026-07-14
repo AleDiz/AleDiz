@@ -1,4 +1,4 @@
-# Alejandro Díaz Alcaraz
+# Alejandro Diaz Alcaraz
 ### C++ & Engine Programmer | Low-Level Systems Specialist 💻
 
 I am a Multimedia Engineering graduate focused on **performance-critical C++ systems, custom engine architecture, and low-level development**. I specialize in building scalable, modular software and optimizing codebases under strict hardware and memory constraints.
@@ -19,7 +19,7 @@ My core expertise lies in **gameplay systems architecture, AI algorithms, and cu
 * 💻 **Languages:** C++, C#, Z80 Assembly, C.
 * ⚙️ **Architecture & Frameworks:** Entity-Component System (ECS), Object-Oriented Programming (OOP), Custom C++ Engine Frameworks, State Machines.
 * 🛠️ **Tools & Workflows:** Git / GitHub, Visual Studio, MSBuild, Profiling Tools, Data-Driven Architectures (Excel/CSV parsing pipelines).
-* 🎮 **Commercial Engines:** Godot 4 (C#), Unity, Unreal Engine.
+* 🎮 **Commercial Engines:** Godot 4 (C#), Unreal Engine, Unity.
 
 ---
 
@@ -49,4 +49,3 @@ My core expertise lies in **gameplay systems architecture, AI algorithms, and cu
 ### 📫 Contact & Professional Profiles
 - 💼 **LinkedIn:** [linkedin.com/in/alejandro-diaz-alcaraz](https://www.linkedin.com/in/alejandro-diaz-alcaraz-037099242)
 - ✉️ **Email:** diazalcaraz@gmail.com
-- 💻 **Technical Portfolio:** *[Link to your GitHub Repositories]*
